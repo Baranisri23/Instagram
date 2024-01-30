@@ -1,0 +1,32 @@
+.ab{
+ 
+   margin-right: 100cm;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    font-size: 150px;
+    
+}
+
+.ab:hover{
+    color: orange;
+   
+}
+
+body{
+    margin: 600px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+.cd{
+    padding-left: 100px;
+    height: 100px;
+    width: 100px;
+    display: flex; 
+    font-size: 150px;
+}
+.cd:hover{
+    color: green;
+}
